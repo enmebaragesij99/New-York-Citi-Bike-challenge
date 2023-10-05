@@ -7,7 +7,7 @@ in the Tableau Public workbook.
 
 - 201501-citibike-tripdata(CSV file)
 
--  (link to MODULE 18 -TABLEAU WORKBOOK)
+-  https://public.tableau.com/app/profile/jorge.chicas/viz/MODULE18-TABLEAUWORKBOOK/DB-Top10endandstartstations?publish=yes (link to MODULE 18 -TABLEAU WORKBOOK)
 
 ## About
 
