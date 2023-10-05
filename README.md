@@ -7,7 +7,7 @@ in the Tableau Public workbook.
 
 - 201501-citibike-tripdata(CSV file)
 
--  https://public.tableau.com/app/profile/jorge.chicas/viz/MODULE18-TABLEAUWORKBOOK/DB-Top10endandstartstations?publish=yes (link to MODULE 18 -TABLEAU WORKBOOK)
+-  https://public.tableau.com/app/profile/jorge.chicas/vizzes (select MODULE 18 -TABLEAU WORKBOOK)
 
 ## About
 
@@ -55,7 +55,7 @@ The conclusion can be made that most of the top 10 stations with the longest ave
 seeing as users would be either travelling to other neighbourhoods farther away from their own  or to manhattan itself which is the heart and soul of New York City and has everything like
 a one stop shop.
 
-
+Note; please refer to work sheets situated within the brackets of the analysis titles, seeing as there are many other work sheets within the workbook due to trial and error.
 
 
 
