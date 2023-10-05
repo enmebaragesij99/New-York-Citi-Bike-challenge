@@ -7,7 +7,7 @@ in the Tableau Public workbook.
 
 - 201501-citibike-tripdata(CSV file)
 
--  (link to Tableau Public Workbook)
+-  (link to MODULE 18 -TABLEAU WORKBOOK)
 
 ## About
 
